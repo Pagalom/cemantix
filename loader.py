@@ -29,7 +29,7 @@ headers = {
     'Accept-Language': 'fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7'
 }
 
-# Boucle pour envoyer les requêtes avec les mots variables
+# Boucle pour envoyer les requêtles avec les mots variables
 for word in words:
     data = {
         'word': word,
